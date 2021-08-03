@@ -1,0 +1,21 @@
+{
+  "name": "localize-js-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "i18next": "^20.3.5"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
